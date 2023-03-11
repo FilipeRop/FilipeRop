@@ -12,4 +12,4 @@
   <img align="right" alt="Pc-Gif" height="150" src="https://64.media.tumblr.com/dc744ed1ec084f046ff90aafdc9b0cd9/0a6caea20c4b064a-ca/s500x750/c63a502b76c370e062d1eced774775a81f124f2a.gif">
 </div>
 
-<--[Stats](https://github-readme-stats.vercel.app/api?username=FilipeRop&hide=stars,prs,issues,contribs)-->
+<!--[Stats](https://github-readme-stats.vercel.app/api?username=FilipeRop&hide=stars,prs,issues,contribs)-->
