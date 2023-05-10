@@ -1,7 +1,8 @@
 ### Hello there
 
-- 💾 Procurando oportunidades.
-- 👾 Estudando Python e mais umas coisinhas...
+- 💾 Aberto as oportunidades.
+- 👾 Amante de Python.
+- 
 ##
 <div style="display: inline_block"><br>
   <img align="center" alt="Filipe-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
